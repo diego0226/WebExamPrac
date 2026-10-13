@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    background-color:darkgray;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+a{
+    padding: 20px;
+}
